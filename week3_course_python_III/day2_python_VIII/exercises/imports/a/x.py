@@ -4,13 +4,15 @@
 import sys, os
 ruta = __file__
 # al ser una ruta a un archivo en una carpeta de primer nivel, 
-# es necesario hacer dos saltos de directorio para llegar 
+# es necesario hacer dos saltos de directorio (uno para el archivo 
+# y otro para el directorio donde está el archivo) para llegar 
 # al directorio raiz
 ruta = os.path.dirname(ruta)
 ruta = os.path.dirname(ruta)
 print("-------------")
 print (ruta)
 
+""" CUANDO SE IMPORTA UN ARCHIVO; SE EJECUTA TODO EL ARCHIVO"""
 import c.z as funcz
 
 def f1x ():

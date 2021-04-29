@@ -15,6 +15,7 @@ sys.path.append(ruta)
 print("-------------")
 #print(ruta)
 
+""" CUANDO SE IMPORTA UN ARCHIVO; SE EJECUTA TODO EL ARCHIVO"""
 import a.x as funx
 
 def f1y ():

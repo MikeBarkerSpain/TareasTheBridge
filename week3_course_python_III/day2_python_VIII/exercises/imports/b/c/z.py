@@ -13,6 +13,7 @@ sys.path.append(ruta)
 print(ruta)
 print("------------------------")
 
+""" CUANDO SE IMPORTA UN ARCHIVO; SE EJECUTA TODO EL ARCHIVO"""
 import a.x as funx
 import b.y as funy
 
