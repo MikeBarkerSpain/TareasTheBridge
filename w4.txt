@@ -1,0 +1,12 @@
+lecturas:
+	- oreilly
+		- EDA_&AI
+		- class.md
+	- archivo de numpy
+	- archivo de pandas
+
+delivery: hacer la biblioteca de funciones útiles (para tenerlas a mano siempre)
+
+Hundir la flota:
+	- hacer el esquema de juego
+	- definir las clases necesarias
