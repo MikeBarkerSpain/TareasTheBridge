@@ -1,12 +1,14 @@
 lecturas:
 	- oreilly
-		- EDA_&AI
+		- EDA_&AI		ok
 		- class.md
-	- archivo de numpy
-	- archivo de pandas
+	- archivo de numpy	ok
+	- archivo de pandas	WIP
 
-delivery: hacer la biblioteca de funciones útiles (para tenerlas a mano siempre)
+delivery: hacer la biblioteca de funciones utiles 
+			(para tenerlas a mano siempre) 			WIP
 
 Hundir la flota:
 	- hacer el esquema de juego
+	- aprender a guardar/cargar juego
 	- definir las clases necesarias
