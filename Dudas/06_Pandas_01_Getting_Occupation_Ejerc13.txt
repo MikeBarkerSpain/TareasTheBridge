@@ -1,0 +1,43 @@
+#Intento 1: se busca el máximo por ocupación y se recorre la lista en búsqueda de ese número. 
+
+most_freq_occ = users_occupation.max()
+# users_occupation.values
+# most_freq_occ
+#for i in range(len(users_occupation)):
+i=0
+checkMatch = True
+TopOccupation = ""
+while checkMatch:
+    if int(users_occupation.values[i]) != most_freq_occ:
+        i += 1
+    else:
+        TopOccupation = users_occupation.values[i]
+print (TopOccupation, most_freq_occ)
+
+# No entiendo porqué falla al reconocer el objeto que sale de users_occupation.values[i], para mí, debería ser un int.
+
+
+
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-24-f27ed407e25e> in <module>
+      7 TopOccupation = ""
+      8 while checkMatch:
+----> 9     if int(users_occupation.values[i]) != most_freq_occ:
+     10         i += 1
+     11     else:
+
+~\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\generic.py in __nonzero__(self)
+   1441     def __nonzero__(self):
+   1442         raise ValueError(
+-> 1443             f"The truth value of a {type(self).__name__} is ambiguous. "
+   1444             "Use a.empty, a.bool(), a.item(), a.any() or a.all()."
+   1445         )
+
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+
+#Intento 2:
+maxValueIndex = users_occupation.idxmax()
+print(f"{maxValueIndex}")
+# ¿Cómo se puede evitar sacar el tipo de objeto en la salida?

@@ -1,0 +1,14 @@
+planets.isnull().sum()	# cuenta nulos por columnas
+planets.dropna().describe(include = "all") # describe estadísticamente las columnas
+planets.describe()  # idem
+
+"""
+Aggregation	Description
+count()	Total number of items
+first(), last()	First and last item
+mean(), median()	Mean and median
+min(), max()	Minimum and maximum
+std(), var()	Standard deviation and variance
+mad()	Mean absolute deviation
+prod()	Product of all items
+sum()	Sum of all items

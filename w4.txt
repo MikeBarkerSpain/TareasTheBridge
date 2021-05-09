@@ -9,6 +9,6 @@ delivery: hacer la biblioteca de funciones utiles
 			(para tenerlas a mano siempre) 			WIP
 
 Hundir la flota:
-	- hacer el esquema de juego
+	- hacer el esquema de juego			ok -> entregable(faltan pruebas)
 	- aprender a guardar/cargar juego
 	- definir las clases necesarias
