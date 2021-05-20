@@ -39,3 +39,10 @@ https://datos.gob.es/es/catalogo/l01280796-elecciones-asamblea-de-madrid-1983-20
 Enlaces de interés
 https://opencagedata.com/tutorials/geocode-in-python
 -> para sacar información de ciudades/localizaciones -> interesante para obtener longitud y latitud
+
+openstreetmap
+-> para sacar información de bares/localizaciones
+
+https://developer.foursquare.com/docs/build-with-foursquare/categories/
+Food
+4d4b7105d754a06374d81259
