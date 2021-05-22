@@ -1,0 +1,24 @@
+Ejercicio Titanic Pandas
+
+ex11 y ex12: las filas/columnas deben de ser del df de titanic? 
+y sólo para las columnas seleccionadas??
+
+
+Ejercicio Visualización
+
+ejercicio Titanic Visualización
+8.- We would like to have in one single plot the summary statistics of the feature age. 
+Choose the appropriate plot to show below.
+-> no entiendo el plot que piden, se me ocurre categorizar por clase y por género, pero no estoy seguro de que sea así
+
+Tips
+1.- # remember to %matplotlib inline ???? qué quiere decir esto?
+6.- Cómo añadir el coeficiente de pearson  en el plot?
+
+Score
+Como mover la leyenda o hacerla desaparecer?
+
+
+
+
+
