@@ -17,6 +17,7 @@ https://seaborn.pydata.org/generated/seaborn.kdeplot.html
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 https://seaborn.pydata.org/generated/seaborn.JointGrid.html   !!!!!!!
 https://seaborn.pydata.org/generated/seaborn.PairGrid.html	!!!!!
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html!!!!
 
 tutoriales
 https://seaborn.pydata.org/tutorial/axis_grids.html
