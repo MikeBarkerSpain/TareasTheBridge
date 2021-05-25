@@ -8,6 +8,8 @@ una vez extraido los XMLs y pasados a diccionarios, se monta una línea con los 
 http://overpass-api.de/api/interpreter -> mirar DE ARRIBA A ABAJO LA API DE ESTA ZONA 
 descargar polígono con fronteras administrativas de cada municipio CAM (buscar en SIG), buscar en Json o Geojson
 
+https://empresite.eleconomista.es/Actividad/HOSTELERIA/provincia/MADRID/ -> data wrangling como el de las birras/pelis
+
 
 presentación de los datos:
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_hist.html#sphx-glr-gallery-lines-bars-and-markers-scatter-hist-py
@@ -32,4 +34,5 @@ Estrategia/notas
 1.- hay que obtener la serie de datos de 2019/2021 por cada pueblo (wrangling sesion 1)
 2.- de esa lista, hayq ue filtrar aquellos pueblos en los que no ganó el PP en 2019 (justificar)
 3.- priorizar la búsqueda de los datos de bares para esos pueblos sobre el resto
-4.- analizar los datos obtenidos.
+4.- analizar los datos obtenidos
+	- analizar aquellos pueblos con más interesés (aumento de los votos contabilizados -incluso categorizar por ese dato, 10%+, entre 10% y 5%, entre 5%y0% y los inversos
