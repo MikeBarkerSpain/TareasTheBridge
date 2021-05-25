@@ -1,0 +1,23 @@
+1.Document all steps. Structure your code to keep it cleaned using  good practices.
+2.Use Trello to manage your project
+3.The dashboard created must have at least three menu sections. 
+	The first one is thewelcome
+	the second one is related to visualize yourcleaned data 
+	the third one must call your own flask API and show the json returned.
+4.Collect the data. Try to do that each call, it collects the last updated data.
+5.Determine and explain if the data is cleaned. If not,then clean it.
+6.Show different tendencies for each column in your dataset.
+7.Represent, in a pie chart, the time you have needed for each point in the The project steps section.
+	searching the data:
+		a CAM election in 2021: 1h
+		b CAM election in 2019: 2h
+		c Restaurants/bars/pubs: 2h+
+		d coding the csv generation for the CAM election results: 5h30
+		e organization/reading documentation for the project: 30min
+		f writing the documentation for the job done: 20min
+8.Show five graphs in which you can conclude your hypothesis
+9.Answer the questions:
+	a.Was it possible to demonstrate the hypothesis? Why?
+	b.What can you conclude about your data study?
+	c.What would you change if you need to do another EDAproject?
+	d.What do you learn doing this project?6

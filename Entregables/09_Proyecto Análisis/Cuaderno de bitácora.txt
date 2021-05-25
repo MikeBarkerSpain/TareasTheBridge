@@ -1,0 +1,10 @@
+Recapitulación del trabajo hecho por días
+
+24/05/2021 de 15:00 @ 20:00
+trabajo realizado: se ha conseguido crear en una lista única una lista por municipio con todos los datos generales del municipio (nombre, votos contabilizados, abstenciones, nulos, blancos) así como un diccionario con los datos de los partidos más relevantes organizados por trío: votos en 2021, votos en 2019 y Delta de los votos entre las elecciones.
+
+El objetivo es crear un csv que contenga estos datos para que se puedan cargar en un dataFrame y así puedan ser mani'pulados con las herramientas habituales de visulización y cruce de datos. 
+
+Queda pendiente la extracción del número de bares por municipio, esto en principio se puede lograr mediante varias herramientas, pero de momento es un frente a mantener en standby. 
+
+Sería interesante añadir al csv de los municipios datos de latitud, longitu y población, de forma a poder crear una presentación más atractiva visualmente.
