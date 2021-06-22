@@ -1,0 +1,9 @@
+Arquitectura anterior -> Cada silo de datos tiene los datos aislados
+Nueva Arquitectura -> todos los datos estén integrados en un datalake
+
+necesiadades mínimas:
+
+
+Amazon Redshift:
+- omnisciencia de datos (datalake, datawarehouse o data endpoints)
+- 
