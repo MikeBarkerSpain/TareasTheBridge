@@ -1,0 +1,3 @@
+la estructura flask permite organizar las páginas web a través de las distintas funciones definidas depués de las palabras 'app'.
+esas opciones pueden tener o no asociadas páginas html, que puede redirigir a las páginas del flask a través de la activación de las opciones app.
+esto se consigue con el tag 'action', que activará la app con ese nombre.
